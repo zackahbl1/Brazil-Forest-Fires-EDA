@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top">
 
 <!-- HEADER STYLE: CLASSIC -->
@@ -201,3 +202,6 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 
 ---
+=======
+# Brazil-Forest-Fires-EDA
+>>>>>>> 8c3f55dee9e9b49d89c611ec90c0c2e340ef69af
