@@ -55,7 +55,8 @@
 
 ```sh
 └── /
-    └── Forest Fires In Brazil Project.ipynb
+    ├── Forest Fires In Brazil Project.ipynb
+    └── README.md
 ```
 
 ### Project Index
